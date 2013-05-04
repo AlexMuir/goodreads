@@ -61,7 +61,19 @@ module Goodreads
     def parse(resp)
       hash = Hash.from_xml(resp.body)['GoodreadsResponse']
       hash.delete('Request')
-      hash
+      return recursive_strip hash
+    end
+
+    def recursive_strip(v)
+      case v
+      when String
+        v.strip!
+      when Array
+        v.each {|vv| vv = recursive_strip(vv)}
+      when Hash
+        v.each {|k,v| v = recursive_strip(v) }
+      end
     end
   end
+
 end
