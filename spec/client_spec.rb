@@ -293,4 +293,18 @@ describe 'Client' do
       group_list.group[2].users_count.should eq '530'
     end
   end
+
+  describe '#series' do
+    before { stub_with_key_get('/series/show', {:id => '42078'}, 'series.xml') }
+
+    it 'returns series details' do
+      series = client.series('42078')
+      series.should be_a Hashie::Mash
+      series.id.should eq '42078'
+      series.title.should eq 'Inspector Rebus'
+      series.description.should include 'Edinburgh'
+      series.numbered.should be_true
+      series.series_works.series_work.length.should eq 28
+    end
+  end
 end

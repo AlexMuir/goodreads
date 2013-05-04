@@ -35,6 +35,11 @@ module Goodreads
         end
       end
 
+      # Goodreads API mangles series responses
+      if path == '/series/show'
+          resp.body = CGI.unescapeHTML resp.body
+      end
+
       parse(resp)
     end
 

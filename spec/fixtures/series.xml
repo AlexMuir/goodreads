@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[qpPz978XtahIBhITbvQ9A]]></key>
+    <method><![CDATA[series_show]]></method>
+  </Request>
+  <series>
+<id>42078</id>
+<title>
+<![CDATA[
+    Inspector Rebus
+]]>
+</title>
+<description>
+<![CDATA[
+    John Rebus once served in Britain's elite SAS. Now he's an Edinburgh cop who hides from his memories and misses promotions. To solve brutal murders, he enters the grittiest sides of Edinburgh, the dark heart of contemporary Scotland which lurks behind the elegant and historic buildings. Hard-boiled Inspector Rebus has been described as “the most compelling mind in modern crime fiction” (Independent) and “a masterful creation” (Observer), and this mystery series is sure to thrill. 
+    
+    http://us.macmillan.com/series/InspectorRebusNovels
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>28</series_works_count>
+<primary_work_count>18</primary_work_count>
+<numbered>true</numbered>
+<series_works>
+<series_work>
+<id>165319</id>
+<user_position>1</user_position>
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;3127921&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;10135&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;38448&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;15346&lt;/reviews_count&gt;
+  &lt;best_book&gt;
+    &lt;id type=&quot;integer&quot;&gt;634407&lt;/id&gt;
+    &lt;title&gt;Knots and Crosses (Inspector Rebus, #1)&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;33031&lt;/id&gt;
+      &lt;name&gt;Ian Rankin&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>148244</id>
+<user_position>2</user_position>
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;343059&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;4338&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;16352&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;5879&lt;/reviews_count&gt;
+  &lt;best_book&gt;
+    &lt;id type=&quot;integer&quot;&gt;77490&lt;/id&gt;
+    &lt;title&gt;Hide and Seek (Inspector Rebus, #2)&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;33031&lt;/id&gt;
+      &lt;name&gt;Ian Rankin&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>151145</id>
+<user_position>3</user_position>
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;620701&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;3660&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;13954&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;4967&lt;/reviews_count&gt;
+  &lt;best_book&gt;
+    &lt;id type=&quot;integer&quot;&gt;69802&lt;/id&gt;
+    &lt;title&gt;Tooth and Nail (Inspector Rebus, #3)&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;33031&lt;/id&gt;
+      &lt;name&gt;Ian Rankin&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>148071</id>
+<user_position>4</user_position>
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;326696&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;2937&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;11162&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;4075&lt;/reviews_count&gt;
+  &lt;best_book&gt;
+    &lt;id type=&quot;integer&quot;&gt;205262&lt;/id&gt;
+    &lt;title&gt;Strip Jack (Inspector Rebus, #4)&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;33031&lt;/id&gt;
+      &lt;name&gt;Ian Rankin&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>158528</id>
+<user_position>5</user_position>
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;1703361&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;2926&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;11406&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;4090&lt;/reviews_count&gt;
+  &lt;best_book&gt;
+    &lt;id type=&quot;integer&quot;&gt;77489&lt;/id&gt;
+    &lt;title&gt;The Black Book (Inspector Rebus, #5)&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;33031&lt;/id&gt;
+      &lt;name&gt;Ian Rankin&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>151644</id>
+<user_position>6</user_position>
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;678871&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;2653&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;10437&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;3721&lt;/reviews_count&gt;
+  &lt;best_book&gt;
+    &lt;id type=&quot;integer&quot;&gt;511993&lt;/id&gt;
+    &lt;title&gt;Mortal Causes (Inspector Rebus, #6)&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;33031&lt;/id&gt;
+      &lt;name&gt;Ian Rankin&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>156115</id>
+<user_position>7</user_position>
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;1254914&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;3488&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;13860&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;4631&lt;/reviews_count&gt;
+  &lt;best_book&gt;
+    &lt;id type=&quot;integer&quot;&gt;77491&lt;/id&gt;
+    &lt;title&gt;Let it Bleed (Inspector Rebus, #7)&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;33031&lt;/id&gt;
+      &lt;name&gt;Ian Rankin&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>165533</id>
+<user_position>8</user_position>
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;3183339&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;4651&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;18686&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;6113&lt;/reviews_count&gt;
+  &lt;best_book&gt;
+    &lt;id type=&quot;integer&quot;&gt;68768&lt;/id&gt;
+    &lt;title&gt;Black and Blue (Inspector Rebus, #8)&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;33031&lt;/id&gt;
+      &lt;name&gt;Ian Rankin&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>149772</id>
+<user_position>9</user_position>
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;496016&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;3066&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;12173&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;4237&lt;/reviews_count&gt;
+  &lt;best_book&gt;
+    &lt;id type=&quot;integer&quot;&gt;507992&lt;/id&gt;
+    &lt;title&gt;The Hanging Garden (Inspector Rebus, #9)&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;33031&lt;/id&gt;
+      &lt;name&gt;Ian Rankin&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>162141</id>
+<user_position>10</user_position>
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;2418076&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;2415&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;9506&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;3493&lt;/reviews_count&gt;
+  &lt;best_book&gt;
+    &lt;id type=&quot;integer&quot;&gt;69801&lt;/id&gt;
+    &lt;title&gt;Dead Souls (Inspector Rebus, #10)&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;33031&lt;/id&gt;
+      &lt;name&gt;Ian Rankin&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>157734</id>
+<user_position>11</user_position>
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;1533504&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;2378&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;9367&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;3455&lt;/reviews_count&gt;
+  &lt;best_book&gt;
+    &lt;id type=&quot;integer&quot;&gt;69807&lt;/id&gt;
+    &lt;title&gt;Set in Darkness (Inspector Rebus, #11)&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;33031&lt;/id&gt;
+      &lt;name&gt;Ian Rankin&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>148070</id>
+<user_position>12</user_position>
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;326695&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;3615&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;14259&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;4884&lt;/reviews_count&gt;
+  &lt;best_book&gt;
+    &lt;id type=&quot;integer&quot;&gt;336237&lt;/id&gt;
+    &lt;title&gt;The Falls (Inspector Rebus, #12)&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;33031&lt;/id&gt;
+      &lt;name&gt;Ian Rankin&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>155596</id>
+<user_position>13</user_position>
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;1192280&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;3617&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;14405&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;4954&lt;/reviews_count&gt;
+  &lt;best_book&gt;
+    &lt;id type=&quot;integer&quot;&gt;904488&lt;/id&gt;
+    &lt;title&gt;Resurrection Men (Inspector Rebus, #13)&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;33031&lt;/id&gt;
+      &lt;name&gt;Ian Rankin&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>158500</id>
+<user_position>14</user_position>
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;1697465&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;2991&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;11803&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;4231&lt;/reviews_count&gt;
+  &lt;best_book&gt;
+    &lt;id type=&quot;integer&quot;&gt;336236&lt;/id&gt;
+    &lt;title&gt;A Question of Blood (Inspector Rebus, #14)&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;33031&lt;/id&gt;
+      &lt;name&gt;Ian Rankin&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>165931</id>
+<user_position>15</user_position>
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;3274043&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;3513&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;13818&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;4887&lt;/reviews_count&gt;
+  &lt;best_book&gt;
+    &lt;id type=&quot;integer&quot;&gt;205650&lt;/id&gt;
+    &lt;title&gt;Fleshmarket Close (Inspector Rebus, #15)&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;33031&lt;/id&gt;
+      &lt;name&gt;Ian Rankin&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>166172</id>
+<user_position>16</user_position>
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;3327516&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;3408&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;13489&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;4769&lt;/reviews_count&gt;
+  &lt;best_book&gt;
+    &lt;id type=&quot;integer&quot;&gt;69800&lt;/id&gt;
+    &lt;title&gt;The Naming of the Dead (Inspector Rebus, #16)&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;33031&lt;/id&gt;
+      &lt;name&gt;Ian Rankin&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>165753</id>
+<user_position>17</user_position>
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;3241572&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;4573&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;18504&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;6213&lt;/reviews_count&gt;
+  &lt;best_book&gt;
+    &lt;id type=&quot;integer&quot;&gt;1845403&lt;/id&gt;
+    &lt;title&gt;Exit Music (Inspector Rebus, #17)&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;33031&lt;/id&gt;
+      &lt;name&gt;Ian Rankin&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>408210</id>
+<user_position>18</user_position>
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;20434573&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;1862&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;7548&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;3407&lt;/reviews_count&gt;
+  &lt;best_book&gt;
+    &lt;id type=&quot;integer&quot;&gt;14781507&lt;/id&gt;
+    &lt;title&gt;Standing in Another Man's Grave (Inspector Rebus, #18)&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;33031&lt;/id&gt;
+      &lt;name&gt;Ian Rankin&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>198329</id>
+<user_position>Novella</user_position>
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;786721&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;285&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;1049&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;528&lt;/reviews_count&gt;
+  &lt;best_book&gt;
+    &lt;id type=&quot;integer&quot;&gt;800758&lt;/id&gt;
+    &lt;title&gt;Death Is Not the End: A Novella (Inspector Rebus Mysteries)&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;33031&lt;/id&gt;
+      &lt;name&gt;Ian Rankin&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>198330</id>
+<user_position>Short stories</user_position>
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;1703381&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;1110&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;4183&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;1648&lt;/reviews_count&gt;
+  &lt;best_book&gt;
+    &lt;id type=&quot;integer&quot;&gt;512086&lt;/id&gt;
+    &lt;title&gt;A Good Hanging: Short Stories&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;33031&lt;/id&gt;
+      &lt;name&gt;Ian Rankin&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>198331</id>
+<user_position>Short stories</user_position>
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;1703384&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;735&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;2772&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;1176&lt;/reviews_count&gt;
+  &lt;best_book&gt;
+    &lt;id type=&quot;integer&quot;&gt;77488&lt;/id&gt;
+    &lt;title&gt;Beggar's Banquet&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;33031&lt;/id&gt;
+      &lt;name&gt;Ian Rankin&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>198336</id>
+<user_position>Short stories</user_position>
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;855779&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;105&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;403&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;237&lt;/reviews_count&gt;
+  &lt;best_book&gt;
+    &lt;id type=&quot;integer&quot;&gt;800778&lt;/id&gt;
+    &lt;title&gt;The Complete Short Stories&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;33031&lt;/id&gt;
+      &lt;name&gt;Ian Rankin&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>198332</id>
+<user_position>1-3 omnibus</user_position>
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;1046815&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;280&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;1142&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;444&lt;/reviews_count&gt;
+  &lt;best_book&gt;
+    &lt;id type=&quot;integer&quot;&gt;1060229&lt;/id&gt;
+    &lt;title&gt;Rebus: The Early Years (Knots and Crosses; Hide and Seek; Tooth and Nail)&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;33031&lt;/id&gt;
+      &lt;name&gt;Ian Rankin&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>198333</id>
+<user_position>4-6 omnibus</user_position>
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;1703359&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;151&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;612&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;312&lt;/reviews_count&gt;
+  &lt;best_book&gt;
+    &lt;id type=&quot;integer&quot;&gt;670885&lt;/id&gt;
+    &lt;title&gt;Rebus: The St Leonard's Years&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;33031&lt;/id&gt;
+      &lt;name&gt;Ian Rankin&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>357109</id>
+<user_position>5-6 omnibus</user_position>
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;1780100&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;39&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;157&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;67&lt;/reviews_count&gt;
+  &lt;best_book&gt;
+    &lt;id type=&quot;integer&quot;&gt;511992&lt;/id&gt;
+    &lt;title&gt;The Black Book / Mortal Causes (Inspector Rebus, #5, #6)&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;33031&lt;/id&gt;
+      &lt;name&gt;Ian Rankin&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>198337</id>
+<user_position>7-9 omnibus</user_position>
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;696878&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;65&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;281&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;135&lt;/reviews_count&gt;
+  &lt;best_book&gt;
+    &lt;id type=&quot;integer&quot;&gt;710611&lt;/id&gt;
+    &lt;title&gt;Three Great Novels: Let It Bleed; Black and Blue; The Hanging Garden&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;33031&lt;/id&gt;
+      &lt;name&gt;Ian Rankin&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>198335</id>
+<user_position>10-12 omnibus</user_position>
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;936214&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;93&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;382&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;208&lt;/reviews_count&gt;
+  &lt;best_book&gt;
+    &lt;id type=&quot;integer&quot;&gt;459374&lt;/id&gt;
+    &lt;title&gt;Rebus: Capital Crimes (Dead Souls; Set in Darkness; The Falls)&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;33031&lt;/id&gt;
+      &lt;name&gt;Ian Rankin&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+<series_work>
+<id>198338</id>
+<user_position>13-15 omnibus</user_position>
+&lt;work&gt;
+  &lt;id type=&quot;integer&quot;&gt;1192314&lt;/id&gt;
+  &lt;ratings_count type=&quot;integer&quot;&gt;44&lt;/ratings_count&gt;
+  &lt;ratings_sum type=&quot;integer&quot;&gt;182&lt;/ratings_sum&gt;
+  &lt;reviews_count type=&quot;integer&quot;&gt;72&lt;/reviews_count&gt;
+  &lt;best_book&gt;
+    &lt;id type=&quot;integer&quot;&gt;1203993&lt;/id&gt;
+    &lt;title&gt;Ian Rankin Inspector Rebus CD Collection: Resurrection Men, a Question of Blood, Fleshmarket Alley&lt;/title&gt;
+    &lt;author&gt;
+      &lt;id type=&quot;integer&quot;&gt;33031&lt;/id&gt;
+      &lt;name&gt;Ian Rankin&lt;/name&gt;
+    &lt;/author&gt;
+  &lt;/best_book&gt;
+&lt;/work&gt;
+
+</series_work>
+
+</series_works>
+</series>
+
+
+</GoodreadsResponse>
